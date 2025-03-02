@@ -1,0 +1,2 @@
+Enter a seed for the random number generation: 33
+10
